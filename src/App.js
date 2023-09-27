@@ -13,8 +13,17 @@ function App() {
   };
 
   return (
-    <div>
-      <Flat flat={flat} />
+    <div className="App">
+      <div className="main">
+        <div className="search">
+        </div>
+        <div className="flats">
+          <Flat flat={flat} />
+        </div>
+      </div>
+      <div className="map">
+
+      </div>
     </div>
   );
 }
