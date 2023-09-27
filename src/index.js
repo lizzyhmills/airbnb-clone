@@ -2,13 +2,13 @@
 import React from 'react'; // external lib
 import ReactDOM from 'react-dom/client'; // external lib
 import './index.css'; // usually in HTML file, allows for automatic reload
-import Hello from './components/hello';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Hello />
+    <App />
   </React.StrictMode>
 );
 
