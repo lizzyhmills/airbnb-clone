@@ -1,13 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+// Allowed by webpack
+import React from 'react'; // external lib
+import ReactDOM from 'react-dom/client'; // external lib
+import './index.css'; // usually in HTML file, allows for automatic reload
+import Hello from './components/hello';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Hello />
   </React.StrictMode>
 );
 
