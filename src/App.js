@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Flat from './components/flat'
 import data from './flats.json'
+import GoogleMapReact from 'google-map-react';
 
 class App extends Component {
   constructor(props) {
@@ -19,10 +20,14 @@ class App extends Component {
     this.setState({
       flats: data
     });
-  }
+  };
 
 
   render() {
+    const center = {
+      lat: 51.5072,
+      lng: 0.1276
+    };
     return (
       <div className="App">
       <div className="main">
@@ -35,7 +40,11 @@ class App extends Component {
         </div>
       </div>
       <div className="map">
-
+        <GoogleMapReact
+          center={center}
+          zoom={10}
+        >
+        </GoogleMapReact>
       </div>
     </div>
   );
