@@ -1,0 +1,56 @@
+[
+  {
+    "id": 3,
+    "name": "Wonderful flat in heart of Soho",
+    "imageUrl": "https://images.unsplash.com/photo-1464890100898-a385f744067f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmxhdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "price": 164,
+    "priceCurrency": "£",
+    "lat": 48.884211,
+    "lng": 2.346890
+  },
+  {
+    "id": 5,
+    "name": "City Apartment at the edge of culture",
+    "imageUrl": "https://images.unsplash.com/photo-1529408632839-a54952c491e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmxhdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "price": 200,
+    "priceCurrency": "£",
+    "lat": 48.885707,
+    "lng": 2.343543
+  },
+  {
+    "id": 201,
+    "name": "Super flat in best location!",
+    "imageUrl": "https://images.unsplash.com/photo-1472207241423-9e30d66d4b0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGZsYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=700&q=60",
+    "price": 150,
+    "priceCurrency": "EUR",
+    "lat": 48.885312,
+    "lng": 2.341225
+  },
+  {
+    "id": 265,
+    "name": "Major NY swank vibes",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBhcnRtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=700&q=60",
+    "price": 115,
+    "priceCurrency": "$",
+    "lat": 48.881840,
+    "lng": 2.343371
+  },
+  {
+    "id": 1432,
+    "name": "Recently refurbished studio",
+    "imageUrl": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBhcnRtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=700&q=60",
+    "price": 135,
+    "priceCurrency": "£",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+  {
+    "id": 90,
+    "name": "Humble but great location",
+    "imageUrl": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    "price": 90,
+    "priceCurrency": "$",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+]
